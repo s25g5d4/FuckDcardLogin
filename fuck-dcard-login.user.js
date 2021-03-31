@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        FuckDcardLogin
 // @description 小孩子才登入看文章。低能卡吃屎。
-// @namespace   https://github.com/s25g5d4/e-hentai-retriever
+// @namespace   https://github.com/s25g5d4/FuckDcardLogin
 // @match       https://*.dcard.tw/*
 // @match       http://*.dcard.tw/*
 // @version     1.0
