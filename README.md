@@ -4,4 +4,4 @@
 
 ## Installation
 
-Grab a [Firefox](https://www.mozilla.org/firefox). Install the [Violentmonkey](https://violentmonkey.github.io/). Install this script via Violentmonkey.
+Install the [Violentmonkey](https://violentmonkey.github.io/) extension to your browser. Install this script by opening this [link](https://github.com/s25g5d4/FuckDcardLogin/raw/main/fuck-dcard-login.user.js) and install it via Violentmonkey.
