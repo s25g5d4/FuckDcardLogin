@@ -4,7 +4,7 @@
 // @namespace   https://github.com/s25g5d4/FuckDcardLogin
 // @match       https://*.dcard.tw/*
 // @match       http://*.dcard.tw/*
-// @version     1.0
+// @version     1.1
 // @author      s25g5d4
 // @homepageURL https://github.com/s25g5d4/FuckDcardLogin
 // @grant       none
